@@ -18,7 +18,8 @@
     "jsonpath": "^0.2.9",
     "swaggerize-express": "^4.0.0",
     "swaggerize-ui": "^1.0.1",
-    "swagmock": "~0.0.2"
+    "swagmock": "~0.0.2",
+    "mysql":"latest"
   },
   "devDependencies": {
     "eslint": "^2",
